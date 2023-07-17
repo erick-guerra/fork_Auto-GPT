@@ -32,6 +32,7 @@ COMMAND_CATEGORIES = [
 ]
 
 
+
 def run_auto_gpt(
     continuous: bool,
     continuous_limit: int,
